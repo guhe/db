@@ -1,8 +1,8 @@
 ----------------------------------------------------------------
-Sun Dec 16 10:39:21 CST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0167-b4e1-e240-000000c8dfb0 
-on database directory /opt/guhe/db/guhe with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
-Loaded from file:/usr/lib/jvm/java-8-oracle/db/lib/derby.jar
+Wed Dec 26 19:05:55 CST 2018:
+Booting Derby (version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631)) instance a816c00e-0167-ea31-3e27-000000c8dde8 
+on database directory /opt/guhe/db/guhe in READ ONLY mode with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e. 
+Loaded from file:/usr/lib/jvm/java-8-oracle/db/lib/derby.jar.
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_121-b13
 user.dir=/opt/guhe/db
@@ -12,8 +12,8 @@ os.version=4.4.0-72-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Dec 16 10:45:04 CST 2018: Shutting down Derby engine
+Wed Dec 26 19:06:06 CST 2018: Shutting down Derby engine
 ----------------------------------------------------------------
-Sun Dec 16 10:45:04 CST 2018:
-Shutting down instance a816c00e-0167-b4e1-e240-000000c8dfb0 on database directory /opt/guhe/db/guhe with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
+Wed Dec 26 19:06:06 CST 2018:
+Shutting down instance a816c00e-0167-ea31-3e27-000000c8dde8 on database directory /opt/guhe/db/guhe with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
 ----------------------------------------------------------------
